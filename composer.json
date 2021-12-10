@@ -1,0 +1,11 @@
+{
+  "name": "calvi/micro-orm",
+  "autoload": {
+    "psr-4": {
+      "Hellokant\\": "src/"
+    }
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}
